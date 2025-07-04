@@ -44,12 +44,6 @@ git clone https://github.com/NishatFarihaRimi/CIFAR-10_Image_Classification.git
 
 cd Desktop/computer_vision_project
 ```
-## Project Structure
-train_model.py: Main script to load data, define model architectures, train, and evaluate.
-
-utils.py (optional): Helper functions for data processing and visualization.
-
-results/: Folder to save model weights, logs, and evaluation metrics.
 
 ## Usage
 Load and preprocess CIFAR-10 data.
